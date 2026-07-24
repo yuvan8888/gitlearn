@@ -1,0 +1,12 @@
+rrajaaaaaaaaaaaachanges added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\Yuvan Raja\Desktop\git> cd ..
+PS C:\Users\Yuvan Raja\Desktop> cd gitlearn
+cd : Cannot find path 'C:\Users\Yuvan Raja\Desktop\gitlearn' because it does not exist.
+At line:1 char:1
++ cd gitlearn
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Yuvan Raja\Desktop\gitlearn:String) [Set-Loca 
+   tion], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
+ 
+PS C:\Users\Yuvan Raja\Desktop> 
